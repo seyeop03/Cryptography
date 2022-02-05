@@ -1,3 +1,5 @@
+### S-AES를 사용하여 암호화 및 복호화 (test case: 0b0110111101101011)
+
 import sys 
 
 # S-Box
